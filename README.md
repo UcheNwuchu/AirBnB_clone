@@ -258,9 +258,15 @@ e952b772-80a5-41e9-b728-6bc4dc5c21b4
     <summary>Daniel Egbuluese</summary>
     <ul>
     <li><a href="https://www.github.com/UcheNwuchu">Github</a></li>
+<<<<<<< HEAD
     <li><a href="mailto:willnwuchu@gmail.com">e-mail</a></li>
     <li><a href="https://www.github.com/danniwide1234">Github</a></li>
     <li><a href="mailto:danniwide.1981@gmail.com">e-mail</a></li>
+=======
+    <li><a href="mailto:danniwide.1981@gmail.com@gmail.com">e-mail</a></li>
+    <li><a href="https://www.github.com/danniwide1234">Github</a></li>
+    <li><a href="mailto:willnwuchu@gmail.com">e-mail</a></li>
+>>>>>>> 6d0415f62ba69d69a0e818c9cff9ba0ca9421ee4
     </ul>
 </details>
 
